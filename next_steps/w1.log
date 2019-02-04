@@ -1,0 +1,10 @@
+[2018-12-11 13:01:53,462: INFO/MainProcess] Connected to amqp://guest:**@127.0.0.1:5672//
+[2018-12-11 13:01:53,476: INFO/MainProcess] mingle: searching for neighbors
+[2018-12-11 13:01:54,509: INFO/MainProcess] mingle: all alone
+[2018-12-11 13:01:54,536: INFO/MainProcess] w1@uko ready.
+[2018-12-11 13:01:54,537: INFO/MainProcess] Received task: tasks.add[f22c9cc5-7b2a-4f3e-94b8-d9a0770ba1de]  
+[2018-12-11 13:01:54,537: INFO/MainProcess] Received task: tasks.add[39f1270e-5d9c-42b1-a41c-27a1a47d7af4]  
+[2018-12-11 13:01:54,538: INFO/MainProcess] Received task: tasks.add[8ae23fdb-5318-481d-92bf-b3ce4f33fccf]  
+[2018-12-11 13:02:03,032: INFO/MainProcess] sync with w2@uko
+[2018-12-11 13:04:42,714: INFO/MainProcess] Received task: tasks.add[bdd41be0-61c5-4135-aeff-b72ebf7e209e]  
+[2018-12-11 13:07:48,099: INFO/MainProcess] Received task: tasks.add[4f94a444-0477-4ca9-9612-74cf999c6683]  

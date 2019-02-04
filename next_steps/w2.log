@@ -1,0 +1,7 @@
+[2018-12-11 13:02:02,990: INFO/MainProcess] Connected to amqp://guest:**@127.0.0.1:5672//
+[2018-12-11 13:02:03,002: INFO/MainProcess] mingle: searching for neighbors
+[2018-12-11 13:02:04,040: INFO/MainProcess] mingle: sync with 1 nodes
+[2018-12-11 13:02:04,040: INFO/MainProcess] mingle: sync complete
+[2018-12-11 13:02:04,067: INFO/MainProcess] w2@uko ready.
+[2018-12-11 13:05:49,204: INFO/MainProcess] Received task: tasks.add[1e1dfbf0-45ea-464a-9781-5dab91f878ea]  
+[2018-12-11 13:08:22,477: INFO/MainProcess] Received task: tasks.add[50a08677-8f92-4f5c-bcb3-d2b4bfc21117]  

@@ -1,0 +1,2 @@
+[2018-12-11 13:05:49,228: INFO/ForkPoolWorker-1] Task tasks.add[1e1dfbf0-45ea-464a-9781-5dab91f878ea] succeeded in 0.022213653000108025s: 8
+[2018-12-11 13:08:22,478: INFO/ForkPoolWorker-1] Task tasks.add[50a08677-8f92-4f5c-bcb3-d2b4bfc21117] succeeded in 0.00042811200000869576s: 8
